@@ -16,17 +16,17 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'apikeylu',
+	'https://zenzapi.xyz': '3C35CE8C3A',
 	'https://zahirr-web.herokuapp.com': 'zahirgans',
 	'https://api.lolhuman.xyz': 'apikeylu',
 }
 
 // Other
-global.owner = ['6281285866502', '6281398003097']
-global.botname = 'BAYUBOT-MD'
-global.ownername = 'BAYU OFC'
-global.packname = 'BAYUBOT-MD'
-global.author = 'CREATED BY BAYU OFC'
+global.owner = ['6285334190704', '6285334190704']
+global.botname = 'Exs - Botz'
+global.ownername = 'Exs - Ditz'
+global.packname = 'Exs - Botz'
+global.author = 'CREATED BY Exs - Ditz'
 global.sessionName = 'session'
 global.prefa = ['#','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
